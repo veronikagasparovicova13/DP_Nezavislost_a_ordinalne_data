@@ -33,3 +33,10 @@ relat_chyba_popul_gamma.R: relativna chyba medzi varianciami pre jeden vs. 3 mul
 5kap.R: simulacie k 5. kapitole - porovnanie vsetkych testov v simulaciach
 
 rho_rhob_simulacie.R: simulacie k rho a rho_b
+
+
+## Poznámka k použitiu umelej inteligencie
+
+Niektoré časti kódu (najmä konštrukcia kandidátnych pravdepodobnostných tabuliek) boli vytvorené s podporou nástrojov umelej inteligencie. Tieto nástroje boli využité na preskúmanie možných konfigurácií a urýchlenie procesu hľadania vhodných riešení.
+
+Všetky finálne výsledky, vrátane pravdepodobnostných tabuliek, simulácií a štatistických analýz, boli nezávisle overené, validované a interpretované autorkou práce.
